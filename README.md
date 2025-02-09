@@ -1,3 +1,3 @@
 you can test it using curl
 
-url : "https://github.com/Jabiryimam17/blogging-platform-api/new/"
+https://roadmap.sh/projects/blogging-platform-api
